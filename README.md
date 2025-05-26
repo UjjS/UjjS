@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Ujjwal Shikhar
 
-<!--
-**UjjS/UjjS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer @ Oracle** | 🧠 Cloud & Data Engineering Enthusiast | 💡 Always Learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+I'm a passionate Software Engineer currently working at **Oracle**, where I work on cloud infrastructure and data-centric projects. With hands-on experience in tools like **OCI, Terraform, and Oracle APEX**, I specialize in building scalable cloud-native solutions and optimizing data pipelines.
+
+I also enjoy working on automation scripts, backend services, and modern full-stack development using **Java, Python, Node.js, MongoDB, and Preact**.
+
+---
+
+### 🧠 What I'm Learning Lately
+
+- ⚙️ **Django, DRF & Microservices Architecture**
+- 🌐 **Full-stack Projects** using **React/Preact** (Frontend) + **Spring Boot/MongoDB** (Backend)
+- ☁️ **Cloud Infrastructure Automation** using **Terraform & Oracle Cloud Infrastructure (OCI)**
+- 🧱 **Data Engineering**: ETL pipelines, data transformation, and optimization
+- 🔁 **Fast Formulas & Business Logic Validations** in Oracle HCM
+
+---
+
+### 📌 Tech Stack
+
+- **Languages**: Java, Python, JavaScript, Bash
+- **Frameworks**: Spring Boot, Node.js, Preact, Unity
+- **Cloud**: Oracle Cloud (OCI), Terraform
+- **Database**: MongoDB, Oracle SQL
+- **DevOps/Tools**: Git, Docker, Jenkins, Linux
+
+---
+
+### 📫 Get in Touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ujjwalshikhar/)
+- 🧠 [GitHub Projects](https://github.com/ujjwalshikhar)
+
+---
+
+### 🛠️ Side Projects & Interests
+
+- 🚑 Building cloud-native tools for **healthcare & sustainability**
+- 🔍 Exploring **data-driven automation** for enterprise applications
+- 🔐 Interested in using **blockchain for IP & data protection**
