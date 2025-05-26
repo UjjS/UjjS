@@ -34,8 +34,8 @@ I also enjoy working on automation scripts, backend services, and modern full-st
 
 ### 📫 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ujjwalshikhar/)
-- 🧠 [GitHub Projects](https://github.com/ujjwalshikhar)
+- 💼 [LinkedIn](in/ujjwal-shikhar-15ba25191)
+- 🧠 [GitHub Projects](https://github.com/UjjS)
 
 ---
 
