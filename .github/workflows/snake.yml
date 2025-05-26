@@ -20,7 +20,9 @@ jobs:
             ./github-contribution-grid-snake.svg
 
       - name: Push changes
-        uses: EndBug/add-and-commit@v9
+        uses: ad-m/github-push-action@v0.6.0
         with:
-          message: "🐍 Generate GitHub contribution grid snake"
-          add: "github-contribution-grid-snake.svg"
+            github_token: ${{ secrets.PAT }}
+            branch: main
+            force: true
+
