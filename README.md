@@ -34,7 +34,7 @@ I also enjoy working on automation scripts, backend services, and modern full-st
 
 ### 📫 Get in Touch
 
-- 💼 [LinkedIn]([My_Linkedin](https://www.linkedin.com/in/ujjwal-shikhar-15ba25191)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ujjwal-shikhar-15ba25191)
 - 🧠 [GitHub Projects](https://github.com/UjjS)
 
 ---
@@ -45,5 +45,5 @@ I also enjoy working on automation scripts, backend services, and modern full-st
 - 🔍 Exploring **data-driven automation** for enterprise applications
 - 🔐 Interested in using **blockchain for IP & data protection**
 
-![GitHub Snake](./github-contribution-grid-snake.svg)
+
 
