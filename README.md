@@ -44,3 +44,6 @@ I also enjoy working on automation scripts, backend services, and modern full-st
 - 🚑 Building cloud-native tools for **healthcare & sustainability**
 - 🔍 Exploring **data-driven automation** for enterprise applications
 - 🔐 Interested in using **blockchain for IP & data protection**
+
+![GitHub Snake](./github-contribution-grid-snake.svg)
+
